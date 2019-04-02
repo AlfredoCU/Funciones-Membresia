@@ -1,0 +1,12 @@
+C:\Users\Alfredo\Desktop\FuncionesMembresia\FuncionesMembresia\bin\Debug\FuncionesMembresia.exe.config
+C:\Users\Alfredo\Desktop\FuncionesMembresia\FuncionesMembresia\bin\Debug\FuncionesMembresia.exe
+C:\Users\Alfredo\Desktop\FuncionesMembresia\FuncionesMembresia\bin\Debug\FuncionesMembresia.pdb
+C:\Users\Alfredo\Desktop\FuncionesMembresia\FuncionesMembresia\obj\Debug\FuncionesMembresia.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\FuncionesMembresia\FuncionesMembresia\obj\Debug\FuncionesMembresia.exe
+C:\Users\Alfredo\Desktop\FuncionesMembresia\FuncionesMembresia\obj\Debug\FuncionesMembresia.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Inteligencia Artificial I\Actividades\Actividad 3\Código\FuncionesMembresia\FuncionesMembresia\bin\Debug\FuncionesMembresia.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Inteligencia Artificial I\Actividades\Actividad 3\Código\FuncionesMembresia\FuncionesMembresia\obj\Debug\FuncionesMembresia.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Inteligencia Artificial I\Actividades\Actividad 3\Código\FuncionesMembresia\FuncionesMembresia\obj\Debug\FuncionesMembresia.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Inteligencia Artificial I\Actividades\Actividad 3\Código\FuncionesMembresia\FuncionesMembresia\bin\Debug\FuncionesMembresia.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Inteligencia Artificial I\Actividades\Actividad 3\Código\FuncionesMembresia\FuncionesMembresia\bin\Debug\FuncionesMembresia.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Ing. Computación\2019A\Inteligencia Artificial I\Actividades\Actividad 3\Código\FuncionesMembresia\FuncionesMembresia\obj\Debug\FuncionesMembresia.csprojResolveAssemblyReference.cache
